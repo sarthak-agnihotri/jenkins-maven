@@ -1,5 +1,5 @@
-public class App{
-    public static void main(Stringp[] args){
-        System.out.println("Hello Jenkins Maven");
+public class App {
+    public static void main(String[] args) {
+        System.out.println("Hello Jenkins Maven Build");
     }
 }
